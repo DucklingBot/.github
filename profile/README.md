@@ -7,13 +7,6 @@
 [![Gabrielle Soares ](https://img.shields.io/badge/Gabrielle_Soares_-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gabriellesote)
 [![João Paulo](https://img.shields.io/badge/João_Paulo-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/JoaoPaulo-66)
 
-###  🐾Planejamento e Requisitos
-- Definir o propósito da aplicação
-- Identificar usuários e suas necessidades
-- Listar funcionalidades essenciais e opcionais
-- Escolher a stack tecnológica (frontend, backend, banco de dados, etc.)
-- Criar wireframes e protótipos
-
 
 ### 🎯 Propósito
 O DucklingBot é um bot para Discord criado para oferecer entretenimento e interatividade. Ele fornecerá avisos de promoções de jogos, integração com IA para conversas e um sistema de RPG interativo.
