@@ -1,4 +1,4 @@
-<img src="#">
+<img src="https://github.com/DucklingBot/.github/blob/main/profile/PintinhoBanner-export.png" width=100% >
 
 # 🐣 DucklingBot
 
