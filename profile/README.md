@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ac69befe-f2d8-43ad-8ec2-35662955e27f)<img src="https://github.com/DucklingBot/.github/blob/main/profile/PintinhoBanner-export.png" width=100% >
+<img src="https://github.com/DucklingBot/.github/blob/main/profile/PintinhoBanner-export.png" width=100% >
 
 # 🐣 DucklingBot
 
